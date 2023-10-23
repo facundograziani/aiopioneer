@@ -3,7 +3,7 @@
 from enum import Enum
 
 DEFAULT_PORT = 8102
-VERSION = "1.0"
+VERSION = "0.4.4"
 
 
 class Zones(Enum):
